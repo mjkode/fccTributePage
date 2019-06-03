@@ -9,3 +9,9 @@ header {
   font-weight: bold;
   margin: 20px;
 }
+
+.footer p{
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-align: center;
+}
